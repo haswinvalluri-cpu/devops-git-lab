@@ -1,5 +1,9 @@
 filters:
   - name: status
+<<<<<<< HEAD
     values: [active, inactive,suspend]
+=======
+    values: [active, inactive,suspend,cancel]
+>>>>>>> feature-b
   - name: priority
     values: [high, medium, low]
